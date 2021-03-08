@@ -3,6 +3,7 @@ Documentation    First test scripts
 Resource    F:/development/robot-scripts/first-scripts/Resources/Amazon.robot
 Resource    F:/development/robot-scripts/first-scripts/Resources/Common.robot
 Resource    F:/development/robot-scripts/first-scripts/Resources/Postgresql.robot
+
 *** Variables ***
 
 

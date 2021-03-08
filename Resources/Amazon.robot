@@ -1,6 +1,5 @@
 *** Settings ***
 Library    SeleniumLibrary
-
 *** Keywords ***
 Search For Products
     input text    id:twotabsearchtextbox    ferrari 458
